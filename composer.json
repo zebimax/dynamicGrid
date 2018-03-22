@@ -1,0 +1,17 @@
+{
+    "name": "ajax/grid-app",
+    "authors": [
+        {
+            "name": "Maksym Perepelytsya",
+            "email": "zebimax@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Ajax\\GridApp\\": "src/"
+        }
+    }
+}

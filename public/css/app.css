@@ -1,0 +1,38 @@
+.grid-table {
+    table-layout:fixed;
+    width: 50%;
+    border: 2px solid;
+    border-collapse: collapse
+}
+.grid-table td {
+    width: 33%;
+    border: 1px solid black;
+}
+.grid-table tr {
+    height: 250px;
+    border: 1px solid black;
+}
+.yellow {
+    background: yellow;
+}
+.h250 {
+    height: 250px;
+}
+.align-left {
+    text-align: left;
+}
+.align-right {
+    text-align: right;
+}
+.align-center {
+     text-align: center;
+}
+.valign-top {
+    vertical-align: top;
+}
+.valign-bottom {
+    vertical-align: bottom;
+}
+.valign-middle {
+    vertical-align: middle;
+}
